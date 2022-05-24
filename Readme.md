@@ -11,7 +11,7 @@ El desafío se compone de dos grandes temas a evaluar:
 
 - Tienes 3 días para resolver este challenge
 - Debes proveer un repositorio privado en GitHub con la respuesta de la parte 1, las instrucciones para revisar parte 2 y 3, asi mismo si utilizaste algún script para automatizar ciertos elementos, tambien te pedimos compartirlo en este repositorio.
-- En el repositorio privado debes agregar como usuarios colaboradores a: @rolivagon @rsebjara @vmolina-enviame @vham @rcarrascop.
+- En el repositorio privado debes agregar como usuarios colaboradores a: **@rolivagon @rsebjara @vmolina-enviame @vham @rcarrascop**.
 
 
 Sin más preámbulos, aquí vamos. Manos a la obra.
